@@ -1,29 +1,19 @@
 `create:[CC*O01(*Account-Number:'is'"#17124955186",)]`
-```/Typescript/@/BMO Financial Inc.md/Account Number.md
+```/Typescript/@/BMO Financial Inc.md/Account Number.md = [CC*O01(*Account-Number:'is'"#17124955186",)]`
 -https://github.com/ETEnterprises1/Master/blob/4ea1ba75e0968134d4e985ecc4eb6bccadc3f217/BMO%20Financial%20Inc.md/Account%20Number.md
 -ETEnterprises1/Master/BMO Financial Inc/ChiefExecutiveAccount
-Id073972181700011840708301160 WALKER AVE SAINT LOUIS, MO 63138-2935etcorporations1@outlook.com
--
-> ```
+Id: '07397218170001184070830' 
+house number: 1160 WALKER AVE 
+city: SAINT LOUIS, 
+state: MO 
+zip: 63138-2935
+email: etcorporations1@outlook.com`
 > CHAIS FITZWATER 
-> 1160 WALKER AVE SAINT LOUIS, MO 63138-2935
-> ```
-> ```
-> 073972181
-> Routing Number
-> ```
-> ```
-> 70001184070830
-> Account Number
->  Pathward, N.A 
-> Bank Name
-> 
 > X
 > Chais Fitzwater
 > ACCOUNTHOLDER SIGNATURE
 > 11/25/2024
 > DATE
-> 
 # Create a folder
 $ mkdir actions-runner && cd actions-runner
 # Download the latest runner package
