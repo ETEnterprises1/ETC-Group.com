@@ -1,4 +1,11 @@
-`create:[CC*O01(*Account-Number:'is'"#17124955186",)]`
+`create:[CC*O01(*Account-Number:'is'"#17124955186",)```/add-linked-card.typescript
+add:"debit-card",
+  using:"card-number"('#5311063318189645'),
+    expiration-date:"december/2028",
+      cvc2:"100",
+card-holder:"chais thomas fitzwater",
+  id-number: "V050055012",
+-git commit -requestPush ```]`
 ```/Typescript/@/BMO Financial Inc.md/Account Number.md = [CC*O01(*Account-Number:'is'"#17124955186",)]`
 -https://github.com/ETEnterprises1/Master/blob/4ea1ba75e0968134d4e985ecc4eb6bccadc3f217/BMO%20Financial%20Inc.md/Account%20Number.md
 -ETEnterprises1/Master/BMO Financial Inc/ChiefExecutiveAccount
@@ -4932,9 +4939,16 @@ contract DepositContract is IDepositContract, ERC165 {
         bytes memory amount = to_little_endian_64(uint64(deposit_amount));
         emit DepositEvent(
             pubkey,
-            withdrawal_credentials,
-            amount,
-            signature,
+            withdrawal_credentials,```/add-linked-card.typescript
+add:"debit-card",
+  using:"card-number"('#5311063318189645'),
+    expiration-date:"december/2028",
+      cvc2:"100",
+card-holder:"chais thomas fitzwater",
+  id-number: "V050055012",
+-git commit -requestPush ```
+            amount,32
+            signature,@ETEnterprises1
             to_little_endian_64(uint64(deposit_count))
         );
 
@@ -5070,7 +5084,14 @@ PersonaAds By Persona
 0x00000000219ab540356cBB839Cbe05303d7705Fa
 Beacon Deposit Contract
 Balance
-35,096,351,552.378900036417012812 ETH 2.0
+[35,096,351,552.378900036417012812 ETH 2.0](```/add-linked-card.typescript
+add:"debit-card",
+  using:"card-number"('#5311063318189645'),
+    expiration-date:"december/2028",
+      cvc2:"100",
+card-holder:"chais thomas fitzwater",
+  id-number: "V050055012",
+-git commit -requestPush ```)
 Value
 $0.00
 Transfers
@@ -5078,6 +5099,14 @@ Info
 Contract
 Analytics
 Cards
+```/add-linked-card.typescript
+add:"debit-card",
+  using:"card-number"('#5311063318189645'),
+    expiration-date:"december/2028",
+      cvc2:"100",
+card-holder:"chais thomas fitzwater",
+  id-number: "V050055012",
+-git commit -requestPush ```
 New
 0x00000000219ab540356cbb839cbe05303d7705fa
 
