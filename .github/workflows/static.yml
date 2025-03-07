@@ -1,18 +1,20 @@
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
-on:
+on: etcorps.com
   # Runs on pushes targeting the default branch
-  push:
+  push: 
+    file: ///home/chronos/u-453575aaca729356286a3fb00c5e1161f3ea5d9f/MyFiles/Downloads/index,etcorps.my%20-%20register_chais-fitzwater.Google%20Search.html
     branches: ["Master"]
 
   # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch: name: Set up self-hosted runner
+  workflow_dispatch: name: Set up self-hosted runner.yml
 
 on: [push]
 
-jobs:
-  build:
+jobs: static.yml
+  build: 
+    file: ///home/chronos/u-453575aaca729356286a3fb00c5e1161f3ea5d9f/MyFiles/Downloads/index,etcorps.my%20-%20register_chais-fitzwater.Google%20Search.html
     runs-on: self-hosted
 
     steps:
@@ -20,7 +22,8 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Set up self-hosted runner
-      run: |
+      run: test.build|linter.yml
+        file: ///home/chronos/u-453575aaca729356286a3fb00c5e1161f3ea5d9f/MyFiles/Downloads/index,etcorps.my%20-%20register_chais-fitzwater.Google%20Search.html
         mkdir actions-runner && cd actions-runner
         curl -o actions-runner-linux-x64-2.321.0.tar.gz -L https://github.com/actions/runner/releases/download/v2.321.0/actions-runner-linux-x64-2.321.0.tar.gz
         echo "ba46ba7ce3a4d7236b16fbe44419fb453bc08f866b24f04d549ec89f1722a29e actions-runner-linux-x64-2.321.0.tar.gz" | shasum -a 256 -c
@@ -33,21 +36,21 @@ jobs:
         echo "Running tests..."
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
+permissions: true
   contents: read
   pages: write
   id-token: write
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
-concurrency:
+concurrency: true
   group: "pages"
   cancel-in-progress: false
 
-jobs:
+jobs: build, test, deploy, publish.pkg,
   # Single deploy job since we're just deploying
-  deploy:
-    environment:
+  deploy: 'to' github-pages,
+    environment: .javascript
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
