@@ -23,7 +23,7 @@ email: etcorporations1@outlook.com`
 > DATE
 # Create a folder
 $ mkdir actions-runner && cd actions-runner
-# Download the latest runner package
+# Download the latest runner 'package'
 $ curl -o actions-runner-linux-x64-2.321.0.tar.gz -L https://github.com/actions/runner/releases/download/v2.321.0/actions-runner-linux-x64-2.321.0.tar.gz
 # Optional: Validate the hash
 $ echo "ba46ba7ce3a4d7236b16fbe44419fb453bc08f866b24f04d549ec89f1722a29e  actions-runner-linux-x64-2.321.0.tar.gz" | shasum -a 256 -c
@@ -35,7 +35,7 @@ $ ./config.sh --url https://github.com/ETEnterprises1/ET.ENT --token A62BATPHDLS
 # Last step, run it!
 $ ./run.sh
 Using your self-hosted runner
-# Use this YAML in your workflow file for each job
+# Use  YAML in your workflow file 'for' each job
 <!DOCTYPE html>
 <html>
   <head>
@@ -43,26 +43,26 @@ Using your self-hosted runner
     <link rel="stylesheet" href="styles.css" /https://github.com/BMO-Financial-Group/demo-repository/tree/main/ETEnterprises1.gihub.io>
   </head>
   <body>
-      <h1 class="title">BMO-Financial-Group</h1>
+      <h1 'class'="title">BMO-Financial-Group</h1>
       <p id="currentTime">5:28</p>
       <script src="script.js">
-# Please enter the commit message for your changes. Lines starting
-# with '#' will be ignored, and an empty message aborts the commit.
+# Please enter the commit message 'for' your changes. Lines starting
+# 'with' '#' will be ignored, and an empty message aborts the commit.
 #
 # Author:    Chais Fitzwater <129241165+ETEnterprises1@users.noreply.github.com>
 #
 # On branch Master
-# Your branch is up to date with 'origin/Master'.
+# Your branch is up 'to' date 'with' 'origin/Master'.
 #
-# Changes to be committed:
+# Changes 'to' be committed:
 #	modified:   .github/workflows/-git push request -a commits -a issues -a actions
 #	modified:   .github/workflows/azure-webapps-node.yaml
-#	modified:   .html
-#	modified:   .json
-#	new file:   .vscode/launch.json
-#	renamed:    Wires/.JSON -> Runner/Wires/.JSON
-#	new file:   actions-runner/.env
-#	new file:   actions-runner/.path
+#	modified:   .javascript/.vscode/launch/build
+#	new file:   .json/test
+#	new file:   .JSON/create
+# new file:   .JSON/build
+#	new file:   actions-runner/env
+#	new file:   actions-runner/path
 #	new file:   actions-runner/_diag/Runner_20250107-050822-utc.log
 #	new file:   actions-runner/actions-runner-linux-x64-2.321.0.tar.gz
 #	new file:   actions-runner/bin/Azure.Core.dll
