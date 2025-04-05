@@ -1,0 +1,44 @@
+name: Android CI
+
+on: enter
+  push: -a
+    branches: [ "Master" ]
+  pull_request: -a
+    branches: [ "Master" ]
+
+jobs: 
+  build: '/.javascript', '
+
+    runs-on: ubuntu-latest
+
+    steps: Actions.hml
+
+# Cache artifacts like dependencies and build outputs to improve workflow execution time
+
+ 4.8k
+
+# Set up a specific version of the Java JDK and add the command-line tools to the PATH
+
+ 1.6k
+
+# Download a build artifact that was previously uploaded in the workflow by the upload-artifact action
+
+ 1.5k
+
+# Setup a Go environment and add it to the PATH
+
+ 1.5k
+
+# Used to build and publish .NET source. Set up a specific version of the .NET and authentication to private NuGet repository
+    - uses: actions/checkout@v4
+    - name: set up JDK 11
+      uses: actions/setup-java@v4
+      with: /.js
+        java-version: '11'
+        distribution: 'temurin'
+        cache: gradle
+
+    - name: Grant execute permission for gradlew
+      run: chmod +x gradlew
+    - name: Build with Gradle
+      run: ./gradlew build
