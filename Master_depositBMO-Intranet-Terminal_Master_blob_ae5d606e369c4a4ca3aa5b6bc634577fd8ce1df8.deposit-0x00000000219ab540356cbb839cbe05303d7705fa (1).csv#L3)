@@ -8,7 +8,25 @@ Content-Type: multipart/related;
 	type="text/html";
 	boundary="----MultipartBoundary--9utQGWOkeXtzuWPWvMI4th3d8r2O3hlT4SZoAACYeF----"
 
+Actions
 
+Cache artifacts like dependencies and build outputs to improve workflow execution time
+
+ 4.8k
+
+Set up a specific version of the Java JDK and add the command-line tools to the PATH
+
+ 1.6k
+
+Download a build artifact that was previously uploaded in the workflow by the upload-artifact action
+
+ 1.5k
+
+Setup a Go environment and add it to the PATH
+
+ 1.5k
+
+Used to build and publish .NET source. Set up a specific version of the .NET and authentication to private NuGet repository
 ------MultipartBoundary--9utQGWOkeXtzuWPWvMI4th3d8r2O3hlT4SZoAACYeF----
 Content-Type: text/html
 Content-ID: <frame-25558744244847B631976BD61C33DDF7@mhtml.blink>
