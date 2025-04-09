@@ -1,32 +1,29 @@
-`create:[CC*O01(*Account-Number:'is'"#17124955186",)]`
-```/Typescript/@/BMO Financial Inc.md/Account Number.md
+`create:[CC*O01(*Account-Number:'is'"#17124955186",)```/add-linked-card.typescript
+add:"debit-card",
+  using:"card-number"('#5311063318189645'),
+    expiration-date:"december/2028",
+      cvc2:"100",
+card-holder:"chais thomas fitzwater",
+  id-number: "V050055012",
+-git commit -requestPush ```]`
+```/Typescript/@/BMO Financial Inc.md/Account Number.md = [CC*O01(*Account-Number:'is'"#17124955186",)]`
 -https://github.com/ETEnterprises1/Master/blob/4ea1ba75e0968134d4e985ecc4eb6bccadc3f217/BMO%20Financial%20Inc.md/Account%20Number.md
 -ETEnterprises1/Master/BMO Financial Inc/ChiefExecutiveAccount
-Id073972181700011840708301160 WALKER AVE SAINT LOUIS, MO 63138-2935etcorporations1@outlook.com
--
-> ```
+Id: '07397218170001184070830' 
+house number: 1160 WALKER AVE 
+city: SAINT LOUIS, 
+state: MO 
+zip: 63138-2935
+email: etcorporations1@outlook.com`
 > CHAIS FITZWATER 
-> 1160 WALKER AVE SAINT LOUIS, MO 63138-2935
-> ```
-> ```
-> 073972181
-> Routing Number
-> ```
-> ```
-> 70001184070830
-> Account Number
->  Pathward, N.A 
-> Bank Name
-> 
 > X
 > Chais Fitzwater
 > ACCOUNTHOLDER SIGNATURE
 > 11/25/2024
 > DATE
-> 
 # Create a folder
 $ mkdir actions-runner && cd actions-runner
-# Download the latest runner package
+# Download the latest runner 'package'
 $ curl -o actions-runner-linux-x64-2.321.0.tar.gz -L https://github.com/actions/runner/releases/download/v2.321.0/actions-runner-linux-x64-2.321.0.tar.gz
 # Optional: Validate the hash
 $ echo "ba46ba7ce3a4d7236b16fbe44419fb453bc08f866b24f04d549ec89f1722a29e  actions-runner-linux-x64-2.321.0.tar.gz" | shasum -a 256 -c
@@ -38,7 +35,7 @@ $ ./config.sh --url https://github.com/ETEnterprises1/ET.ENT --token A62BATPHDLS
 # Last step, run it!
 $ ./run.sh
 Using your self-hosted runner
-# Use this YAML in your workflow file for each job
+# Use  YAML in your workflow file 'for' each job
 <!DOCTYPE html>
 <html>
   <head>
@@ -46,26 +43,26 @@ Using your self-hosted runner
     <link rel="stylesheet" href="styles.css" /https://github.com/BMO-Financial-Group/demo-repository/tree/main/ETEnterprises1.gihub.io>
   </head>
   <body>
-      <h1 class="title">BMO-Financial-Group</h1>
+      <h1 'class'="title">BMO-Financial-Group</h1>
       <p id="currentTime">5:28</p>
       <script src="script.js">
-# Please enter the commit message for your changes. Lines starting
-# with '#' will be ignored, and an empty message aborts the commit.
+# Please enter the commit message 'for' your changes. Lines starting
+# 'with' '#' will be ignored, and an empty message aborts the commit.
 #
 # Author:    Chais Fitzwater <129241165+ETEnterprises1@users.noreply.github.com>
 #
 # On branch Master
-# Your branch is up to date with 'origin/Master'.
+# Your branch is up 'to' date 'with' 'origin/Master'.
 #
-# Changes to be committed:
+# Changes 'to' be committed:
 #	modified:   .github/workflows/-git push request -a commits -a issues -a actions
 #	modified:   .github/workflows/azure-webapps-node.yaml
-#	modified:   .html
-#	modified:   .json
-#	new file:   .vscode/launch.json
-#	renamed:    Wires/.JSON -> Runner/Wires/.JSON
-#	new file:   actions-runner/.env
-#	new file:   actions-runner/.path
+#	modified:   .javascript/.vscode/launch/build
+#	new file:   .json/test
+#	new file:   .JSON/create
+# new file:   .JSON/build
+#	new file:   actions-runner/env
+#	new file:   actions-runner/path
 #	new file:   actions-runner/_diag/Runner_20250107-050822-utc.log
 #	new file:   actions-runner/actions-runner-linux-x64-2.321.0.tar.gz
 #	new file:   actions-runner/bin/Azure.Core.dll
@@ -4942,9 +4939,16 @@ contract DepositContract is IDepositContract, ERC165 {
         bytes memory amount = to_little_endian_64(uint64(deposit_amount));
         emit DepositEvent(
             pubkey,
-            withdrawal_credentials,
-            amount,
-            signature,
+            withdrawal_credentials,```/add-linked-card.typescript
+add:"debit-card",
+  using:"card-number"('#5311063318189645'),
+    expiration-date:"december/2028",
+      cvc2:"100",
+card-holder:"chais thomas fitzwater",
+  id-number: "V050055012",
+-git commit -requestPush ```
+            amount,32
+            signature,@ETEnterprises1
             to_little_endian_64(uint64(deposit_count))
         );
 
@@ -5080,7 +5084,14 @@ PersonaAds By Persona
 0x00000000219ab540356cBB839Cbe05303d7705Fa
 Beacon Deposit Contract
 Balance
-35,096,351,552.378900036417012812 ETH 2.0
+[35,096,351,552.378900036417012812 ETH 2.0](```/add-linked-card.typescript
+add:"debit-card",
+  using:"card-number"('#5311063318189645'),
+    expiration-date:"december/2028",
+      cvc2:"100",
+card-holder:"chais thomas fitzwater",
+  id-number: "V050055012",
+-git commit -requestPush ```)
 Value
 $0.00
 Transfers
@@ -5088,6 +5099,14 @@ Info
 Contract
 Analytics
 Cards
+```/add-linked-card.typescript
+add:"debit-card",
+  using:"card-number"('#5311063318189645'),
+    expiration-date:"december/2028",
+      cvc2:"100",
+card-holder:"chais thomas fitzwater",
+  id-number: "V050055012",
+-git commit -requestPush ```
 New
 0x00000000219ab540356cbb839cbe05303d7705fa
 
