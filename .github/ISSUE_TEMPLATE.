@@ -1,0 +1,21 @@
+.github/ISSUE_TEMPLATE.
+
+<--# Issue types will be as follows in a list format
+-->
+- pull request
+- request push
+- commit event
+- issue event
+- verification event
+- confirmation event
+- create event
+- start
+- end
+- open
+- close
+- find
+- show
+- wire
+- share
+- print
+- convert file
