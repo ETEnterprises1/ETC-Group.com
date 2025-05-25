@@ -1,12 +1,264 @@
 name: Android CI
 
 on: enter
-  push: -a
+  push: -a 
     branches: [ "Master" ]
   pull_request: -a
     branches: [ "Master" ]
 
-jobs: 
+jobs: https://github.com/BMO-Intranet-Terminal/Master/blob/793861b82a5daf89d7fd7f1cb55e77b593e67a30/ETCorps%20HREADME.go
+<a href='https://codespaces.new/Federal-Reserve-Bitcoin-Banking-Inc/Master?quickstart=1'><img src='https://github.com/codespaces/badge.svg' alt='Open in GitHub Codespaces' style='max-width: 100%;'></a>
+"etcorps.com
+
+X
+
+Blockchain.com: Crypto Wallet
+
+Blockchain
+
+Get the App
+
+View
+Bitcoin Block
+897,046
+Mined on May 16, 2025 09:54:59
+•
+All Blocks
+Unknown
+Coinbase Message •
+z'h/Foundry USA Pool #dropgold/z>mmjw!|l0=K4d107WJK\^2 0$`!SQ beft,
+A total of 184.25 BTC ($19,031,323) were sent in the block with the average transaction being 0.1919 BTC ($19,821.00). Unknown earned a total reward of 3.13 BTC $323,291. The reward consisted of a base reward of 3.13 BTC $323,291 with an additional 0.0271 BTC ($2,799.11) reward paid as fees of the 960 transactions which were included in the block.
+Hash
+00000-23fc1
+Capacity
+109.43%
+Distance
+1d 7h 56m 50s
+BTC
+184.2546
+Value
+$19,031,323
+Value Today
+$19,147,181
+Average Value
+0.1919319098 BTC
+Median Value
+0.00020448 BTC
+Input Value
+184.28 BTC
+Output Value
+187.41 BTC
+Transactions
+960
+Witness Tx’s
+924
+Inputs
+6,729
+Outputs
+1,976
+Fees
+0.02707845 BTC
+Fees Kb
+0.0000236 BTC
+Fees kWU
+0.0000068 BTC
+Depth
+201
+Size
+1,147,498
+Version
+0x258c0000
+Merkle Root
+29-c1
+Difficulty
+119,116,256,505,723.47
+Nonce
+4,204,739,628
+Bits
+386,030,829
+Weight
+3,993,880 WU
+Minted
+3.13 BTC
+Reward
+3.15207845 BTC
+Mined on
+May 16, 2025, 9:54:59 PM
+Height
+897,046
+Confirmations
+201
+Fee Range
+1-59 sat/vByte
+Average Fee
+0.00002821
+Median Fee
+0.00000342
+Miner
+Unknown
+0ID:7d32-97e1
+5/16/2025, 21:54:59
+FromBlock Reward
+To5 Outputs
+3.15207845 BTC•$325,572
+Fee0 Sats •$0.00
+1ID:9ad3-c215
+5/16/2025, 21:54:23
+From3KRg-Fq9b
+Tobc1q-l86m
+0.52560000 BTC•$54,288.26
+Fee23.0K Sats •$23.76
+2ID:a82d-0caf
+5/16/2025, 21:54:59
+Frombc1q-ssuj
+To3 Outputs
+0.00290396 BTC•$299.94
+Fee15.4K Sats •$15.92
+3ID:66de-ed83
+5/16/2025, 21:54:51
+Frombc1q-jp0j
+Tobc1q-anu4
+0.00017087 BTC•$17.65
+Fee5.9K Sats •$6.11
+4ID:eae7-f887
+5/16/2025, 21:54:23
+From4 Inputs
+To2 Outputs
+0.00737971 BTC•$762.24
+Fee23.8K Sats •$24.58
+5ID:8b58-0568
+5/16/2025, 21:54:07
+From3 Inputs
+To2 Outputs
+0.00558624 BTC•$576.99
+Fee18.9K Sats •$19.48
+6ID:28c1-6d94
+5/16/2025, 21:54:07
+From2 Inputs
+To2 Outputs
+0.00371066 BTC•$383.27
+Fee13.9K Sats •$14.33
+7ID:3621-9470
+5/16/2025, 21:54:09
+From2 Inputs
+To2 Outputs
+0.00369127 BTC•$381.26
+Fee12.2K Sats •$12.61
+8ID:5678-d75a
+5/16/2025, 21:54:09
+From42 Inputs
+To2 Outputs
+0.07860321 BTC•$8,118.78
+Fee198.3K Sats •$204.77
+9ID:147a-84bf
+5/16/2025, 21:54:12
+From2 Inputs
+To3 Outputs
+0.00507525 BTC•$524.21
+Fee9.7K Sats •$10.04
+10ID:77e3-186f
+5/16/2025, 21:54:02
+Frombc1q-zpw3
+To7 Outputs
+0.26921844 BTC•$27,807.08
+Fee12.1K Sats •$12.49
+11ID:0ee9-0fa2
+5/16/2025, 21:54:09
+Frombc1q-zm2e
+To3 Outputs
+0.46190874 BTC•$47,709.71
+Fee8.7K Sats •$9.03
+12ID:1414-5d25
+5/16/2025, 21:54:57
+Frombc1q-wdvq
+Tobc1q-d0fs
+0.00144590 BTC•$149.34
+Fee3.9K Sats •$4.01
+13ID:60f4-acbb
+5/16/2025, 21:54:24
+Frombc1q-7s3h
+To5 Outputs
+0.11005661 BTC•$11,367.55
+Fee8.5K Sats •$8.74
+14ID:e540-3cd1
+5/16/2025, 21:53:55
+From31ia-dKEm
+To6 Outputs
+0.41128001 BTC•$42,480.36
+Fee10.3K Sats •$10.64
+Explore top crypto assets.
+Blockchain.com Explorer | BCH | ETH | BCH"
+ 0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72TF256PSIMV975TD
+
+GDNC
+
+Need help inserting SIM card?
+
+visit simcardinsert.com
+
+8914300000
+
+8567176450
+
+Notched Corner A
+
+VW070
+
+89148000008567176460
+
+This is your SIM CARD NUMBER
+
+MasterOwnerETcorps /.github
+
+• Code
+
+• Pull requests
+
+• Actions
+
+• • • • •
+
+[BMOFinancialInc-.bankbridge/html.main]: Update LICENSE #1
+
+prebuild 
+
+prebuild succeeded 23 minutes ago in 
+
+36m 16s 
+
+Set up job 
+
+0s
+
+Mask secrets 
+
+0s
+
+Install Agent 
+
+42s
+
+Create Template 
+
+18m 13s
+
+35054148b2c5a5e: Downloading 162.7MB/165.3MB 
+
+351
+
+35254148b2c5a5e: Verifying Checksum 
+
+353
+
+35454148b2c5a5e: Download complete 
+
+355
+
+3562b253b5b163b: Downloading 232B/232B 
+
+357
+
+3582b253b5b163b: Verifying Checksum
   build: '/.javascript', '
 
     runs-on: ubuntu-latest
