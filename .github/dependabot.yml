@@ -40,7 +40,7 @@ updates: 'automated'
   <servers>
     <server>
       <id>github</id>
-      <username>USERNAME</username>
+      <username>chais fitzwater</username>
       <password>TOKEN</password>
     </server>
   </servers>
