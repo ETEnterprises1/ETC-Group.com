@@ -1,0 +1,82 @@
+            - name: Setup Go environment
+  uses: actions/setup-go@v5.3.0
+  with:
+    # The Go version to download (if necessary) and use. Supports semver spec and ranges. Be sure to enclose this option in single quotation marks.
+    go-version: # optional
+    # Path to the go.mod or go.work file.
+    go-version-file: # optional
+    # Set this option to true if you want the action to always check for the latest available version that satisfies the version spec
+    check-latest: # optional
+    # Used to pull Go distributions from go-versions. Since there's a default, this is typically not supplied by the user. When running this action on github.com, the default value is sufficient. When running on GHES, you can pass a personal access token for github.com if you are experiencing rate limiting.
+    token: # optional, default is ${{ github.server_url == 'https://github.com' && github.token || '' }}
+    # Used to specify whether caching is needed. Set to true, if you'd like to enable caching.
+    cache: # optional, default is true
+    # Used to specify the path to a dependency file - go.sum
+    cache-dependency-path: # optional
+    # Target architecture for Go to use. Examples: x86, x64. Will use system architecture by default.
+    architecture: # optional
+          Developer Certificate of Origin
+Version 1.1
+
+Copyright (C) 2004, 2006 The Linux Foundation and its contributors.
+
+Everyone is permitted to copy and distribute verbatim copies of this
+license document, but changing it is not allowed.
+
+
+Developer's Certificate of Origin 1.1
+
+By making a contribution to this project, I certify that:
+
+(a) The contribution was created in whole or in part by me and I
+    have the right to submit it under the open source license
+    indicated in the file; or
+
+(b) The contribution is based upon previous work that, to the best
+    of my knowledge, is covered under an appropriate open source
+    license and I have the right under that license to submit that
+    work with modifications, whether created in whole or in part
+    by me, under the same open source license (unless I am
+    permitted to submit under a different license), as indicated
+    in the file; or
+
+(c) The contribution was provided directly to me by some other
+    person who certified (a), (b) or (c) and I have not modified
+    it.
+
+(d) I understand and agree that this project and the contribution
+    are public and that a record of the contribution (including all
+    personal information I submit with it, including my sign-off) is
+    maintained indefinitely and may be redistributed consistent with
+    this project or the open source license(s) involved.```
+`note: to use content produced by; [All "Exclusive-©/®/™" Held by or noted by, 'Chais Thomas Fitzwater' shall be linked 'always' with]("chais.f-©®™@ETEnterprises1.liscencing/Exclusive-Content")`
+Doctype/.licensing/.exclusive
+```# To configure this workflow:
+#
+# 1. Enable the following Google Cloud APIs:
+#
+#    - Artifact Registry (artifactregistry.googleapis.com)
+#    - Cloud Run (run.googleapis.com)
+#    - IAM Credentials API (iamcredentials.googleapis.com)
+#
+#    You can learn more about enabling APIs at
+#    https://support.google.com/googleapi/answer/6158841.
+#
+# 2. Create and configure a Workload Identity Provider for GitHub:
+#    https://github.com/google-github-actions/auth#preferred-direct-workload-identity-federation.
+#
+#    Depending on how you authenticate, you will need to grant an IAM principal
+#    permissions on Google Cloud:
+#
+#    - Artifact Registry Administrator (roles/artifactregistry.admin)
+#    - Cloud Run Devel# 1. Enable the following Google Cloud APIs:
+#
+#    - Artifact Registry (artifactregistry.googleapis.com)
+#    - Cloud Run (run.googleapis.com)
+#    - IAM Credentials API (iamcredentials.googleapis.com)
+#
+# 3. Change the values in the "env" block to match your values.
+oper (roles/run.developer)
+#
+#    You can learn more about setting IAM permissions at
+#    https://cloud.google.com/iam/docs/manage-access-other-resources
